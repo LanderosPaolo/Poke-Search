@@ -1,0 +1,20 @@
+let colors = {
+    "water": "#4592c4",
+    "normal": "#a4acaf",
+    "fighting": "#d56723",
+    "flying": "linear-gradient(180deg, rgba(61,199,239,1) 49%, rgba(189,185,184,1) 49%);",
+    "poison": "#b97fc9",
+    "rock": "#a38c21",
+    "ghost": "#7b62a3",
+    "fire": "#fd7d24",
+    "grass": "#9bcc50",
+    "psychic": "#f366b9",
+    "dragon": "linear-gradient(180deg, rgba(83,164,207,1) 49%, rgba(241,110,87,1) 49%);",
+    "fairy": "#fdb9e9",
+    "ground": "linear-gradient(180deg, rgba(247,222,63,1) 49%, rgba(171,152,66,1) 49%);",
+    "bug": "#729f3f",
+    "steel": "#9eb7b8",
+    "electric": "#eed535",
+    "dark": "#707070",
+    "ice": "#51c4e7"
+}   
